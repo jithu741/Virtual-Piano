@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    background-color: #317773;
+}
+
+
+h1 {
+    color:#e2d1f9;
+    font-size: 5rem;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.title {
+    color: #f6b042;
+}
+
+.pia {
+ color: black;
+}
+
+.no {
+ color: white;
+}
+
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+.set {
+    margin: 10% auto;
+  }
+
+
+
+
+footer {
+    color: white;
+    font-family: cursive;
+}
+
+
+
+.q {
+    background-image: url("piano.jpg");
+}
+
+.w {
+    background-image: url("piano.jpg");
+}
+
+.e {
+    background-image: url("piano.jpg");
+}
+
+.h {
+    background-image: url("piano.jpg");
+}
+
+.j {
+    background-image: url("piano.jpg");
+}
+
+.k {
+    background-image: url("piano.jpg");
+}
+
+.l {
+    background-image: url("piano.jpg");
+}
+
+.z {
+    background-image: url("piano.jpg");
+}
+
+.x {
+    background-image: url("piano.jpg");
+}
+
+.c {
+    background-image: url("piano.jpg");
+}
+
+
+.v {
+    background-image: url("piano.jpg");
+}
+
+.b {
+    background-image: url("piano.jpg");
+}
+
+.n {
+    background-image: url("piano.jpg");
+}
+
+.m {
+    background-image: url("piano.jpg");
+}
+
+
+
+
+.red {
+    color: red;
+  }
+
+
+.keys {
+    outline: none;
+    border: 10px solid black;
+    font-size: 4rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color:#317773;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display:inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
